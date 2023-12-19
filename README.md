@@ -1,4 +1,4 @@
-# Java Bootcamp Project
+# Java Bootcamp
 
 ## About the Project
 
